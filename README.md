@@ -1,5 +1,5 @@
 
-================
+===============
 
 CREATE TABLE IF NOT EXISTS `employee` (
   `id_employee` int(3) unsigned NOT NULL AUTO_INCREMENT,
